@@ -1,18 +1,8 @@
 ## Testes com Thunder Client
 
 <details>
-<summary>Cadastrar ocorrência</summary>
-<img alt="Cadastrar" src="docs/testes/cadastrar.png">
-</details>
-
-<details>
-<summary>Excluir ocorrência</summary>
-<img alt="Excluir" src="docs/testes/delete.png">
-</details>
-
-<details>
-<summary>Atualizar ocorrência</summary>
-<img alt="Atualizar" src="docs/testes/put_atualizar.png">
+<summary>Cadastrar usuário</summary>
+<img alt="Cadastrar usuário" src="docs/testes/cadastrar.png">
 </details>
 
 <details>
@@ -21,21 +11,31 @@
 </details>
 
 <details>
-<summary>Testar por tipo</summary>
-<img alt="Teste por tipo" src="docs/testes/teste_por_tipo.png">
+<summary>Usuário atualizado</summary>
+<img alt="Usuário atualizado" src="docs/testes/usuario_atualizado.png">
 </details>
 
 <details>
-<summary>Testar por local</summary>
-<img alt="Teste por local" src="docs/testes/teste_por_local.png">
+<summary>Atualizar evento</summary>
+<img alt="Atualizar evento" src="docs/testes/put_atualizar.png">
 </details>
 
 <details>
-<summary>Listar por ID</summary>
-<img alt="Listar por ID" src="docs/testes/listar_por_id.png">
+<summary>Evento atualizado</summary>
+<img alt="Evento atualizado" src="docs/testes/atualizar_eventos.png">
 </details>
 
 <details>
-<summary>Listar</summary>
-<img alt="Listar" src="docs/testes/listar.png">
+<summary>Excluir evento</summary>
+<img alt="Excluir evento" src="docs/testes/excluir_evento%20(2).png">
+</details>
+
+<details>
+<summary>Login</summary>
+<img alt="Login" src="docs/testes/login.png">
+</details>
+
+<details>
+<summary>Resumo dos eventos</summary>
+<img alt="Resumo dos eventos" src="docs/testes/get_resumo.png">
 </details>
