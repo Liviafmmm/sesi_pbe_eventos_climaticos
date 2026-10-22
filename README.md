@@ -1,11 +1,6 @@
 ## Testes com Thunder Client
 
 <details>
-<summary>Cadastrar usuário</summary>
-<img alt="Cadastrar usuário" src="docs/testes/cadastrar.png">
-</details>
-
-<details>
 <summary>Atualizar cadastro</summary>
 <img alt="Atualizar cadastro" src="docs/testes/atualizar_cadastro.png">
 </details>
@@ -27,7 +22,7 @@
 
 <details>
 <summary>Excluir evento</summary>
-<img alt="Excluir evento" src="docs/testes/excluir_evento%20(2).png">
+<img alt="Excluir evento" src="docs/testes/excluir_evento.png">
 </details>
 
 <details>
