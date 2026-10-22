@@ -24,4 +24,4 @@ Projeto para aulas de back-end, com o objetivo de criar uma API RESTful para ger
 <details><summary>Listar Usuários</summary><img alt="Screeshot01" src="./docs/testes/screenshot01.png"></details>
 <details><summary>Cadastrar novo usuário</summary><img alt="Screeshot02" src="./docs/testes/screenshot02.png"></details>
 <details><summary>Listar Eventos</summary><img alt="Screeshot03" src="./docs/testes/screenshot03.png"></details>
-<details><summary>Cadastrar novo Evento</summary><img alt="Screeshot04" src="./docs/testes/screenshot04.png"></details>
+<details><summary>Cadastrar novo Evento</summary><img alt="Screeshot04" src="./docs/testes/screenshot04.png"></details>"# sesi_pbe_eventos_climaticos" 
